@@ -1,0 +1,9 @@
+@startuml
+class MapBuilderInterface {
+}
+
+class MapBuilder {
+}
+
+MapBuilder --|> MapBuilderInterface
+@enduml
